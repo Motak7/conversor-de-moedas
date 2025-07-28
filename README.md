@@ -8,7 +8,7 @@ Um conversor de moedas simples e responsivo que utiliza a Awesome API para busca
 
 ###  डेमो Ao Vivo
 
-[Acesse a versão ao vivo do projeto aqui!](Em breve!)
+[Acesse a versão ao vivo do projeto aqui!](https://motak7.github.io/conversor-de-moedas/)
 
 ---
 
